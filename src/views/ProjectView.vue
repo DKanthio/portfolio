@@ -32,7 +32,7 @@ export default {
             technologies: "HTML, CSS",
             github: "https://github.com/DKanthio/devoir-Cv",
             image: "/src/assets/images/creation1.png", 
-            link: "/src/assets/Dossier/index.html", 
+            link: "/src/assets/cv/index.html", 
         },
 
         {
@@ -50,7 +50,7 @@ export default {
           technologies: "HTML, CSS, Javascript",
           github: "https://github.com/DKanthio/commentaire",
           image: "/src/assets/images/creation1.png",
-          link: "/src/assets/Dynamiser un espace commentaire/index.html",
+          link: "/src/assets/commentaire/index.html",
         },
       ],
       selectedProjet: null,

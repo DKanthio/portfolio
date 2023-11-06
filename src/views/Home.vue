@@ -49,7 +49,7 @@ export default {
             technologies: "HTML, CSS",
             github: "https://github.com/DKanthio/devoir-Cv",
             image: "/src/assets/images/creation1.png", // Utilisez un chemin absolu
-            link: "/src/assets/Dossier/index.html", // Utilisez un chemin absolu
+            link: "/src/assets/cv/index.html", // Utilisez un chemin absolu
         },
 
         {
@@ -67,7 +67,7 @@ export default {
           technologies: "HTML, CSS, Javascript",
           github: "https://github.com/DKanthio/commentaire",
           image: "/src/assets/images/creation1.png",
-          link: "/src/assets/Dynamiser un espace commentaire/index.html",
+          link: "/src/assets/commentaire/index.html",
         },
       ],
       selectedProject: null,
